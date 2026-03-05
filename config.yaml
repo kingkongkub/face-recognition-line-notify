@@ -1,0 +1,21 @@
+image_paths:
+  - images/Arty1.jpg
+  - images/Arty2.jpg
+  - images/Fa.jpg
+  - images/Kim.jpg
+  - images/Kong.jpg
+  - images/Nung.jpg
+  - images/Plab.jpg
+known_face_names:
+  - "PAKIN"
+  - "PAKIN"
+  - "VANNAPARS"
+  - "PATTARAPON"
+  - "SUPACHAI"
+  - "ARNON"
+  - "NATTAWUT"
+frame_skip: 16
+model: "hog"
+save_video: true
+line_notify_token: "YOUR_LINE_NOTIFY_TOKEN_HERE"
+confidence_threshold: 0.6
