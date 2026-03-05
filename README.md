@@ -1,4 +1,4 @@
-# Face Recognition with LINE Notify
+# Face Recognition with LINE Notify on raspberry pi
 ระบบสแกนใบหน้าและแจ้งเตือนผ่าน LINE Notify
 
 ## วิธีการใช้งาน
